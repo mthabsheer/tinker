@@ -1,3 +1,5 @@
+This is fork repository for BotMan Tinker
+
 # BotMan Tinker
 
 Gives your Laravel chatbot the ability to try your chatbot in your local terminal.
